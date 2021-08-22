@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344098662713",
+    "project_id": "medchat-f30a7",
+    "storage_bucket": "medchat-f30a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344098662713:android:ed397acb84762e5d7c20e8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344098662713-hgr13d54fcold7gtiadm8qt9q7atphbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqs6xDf1pngX-PaTUOCbmOV147hS6qbn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344098662713-hgr13d54fcold7gtiadm8qt9q7atphbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
